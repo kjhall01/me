@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/me/static/css/main.5a5d688a.chunk.css",
-    "main.js": "/me/static/js/main.c81f20c4.chunk.js",
-    "main.js.map": "/me/static/js/main.c81f20c4.chunk.js.map",
+    "main.css": "/me/static/css/main.777db8ed.chunk.css",
+    "main.js": "/me/static/js/main.ff973b22.chunk.js",
+    "main.js.map": "/me/static/js/main.ff973b22.chunk.js.map",
     "runtime-main.js": "/me/static/js/runtime-main.dbdabd70.js",
     "runtime-main.js.map": "/me/static/js/runtime-main.dbdabd70.js.map",
     "static/js/2.032a915b.chunk.js": "/me/static/js/2.032a915b.chunk.js",
     "static/js/2.032a915b.chunk.js.map": "/me/static/js/2.032a915b.chunk.js.map",
     "index.html": "/me/index.html",
-    "static/css/main.5a5d688a.chunk.css.map": "/me/static/css/main.5a5d688a.chunk.css.map",
+    "static/css/main.777db8ed.chunk.css.map": "/me/static/css/main.777db8ed.chunk.css.map",
     "static/js/2.032a915b.chunk.js.LICENSE.txt": "/me/static/js/2.032a915b.chunk.js.LICENSE.txt",
     "static/media/bg.css": "/me/static/media/background.c5315cef.jpeg",
     "static/media/columbia-gs-news-cu-crown.e53f8584.png": "/me/static/media/columbia-gs-news-cu-crown.e53f8584.png",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.dbdabd70.js",
     "static/js/2.032a915b.chunk.js",
-    "static/css/main.5a5d688a.chunk.css",
-    "static/js/main.c81f20c4.chunk.js"
+    "static/css/main.777db8ed.chunk.css",
+    "static/js/main.ff973b22.chunk.js"
   ]
 }
