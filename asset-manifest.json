@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/me/static/css/main.b89b6a9d.chunk.css",
-    "main.js": "/me/static/js/main.c9dfa1eb.chunk.js",
-    "main.js.map": "/me/static/js/main.c9dfa1eb.chunk.js.map",
-    "runtime-main.js": "/me/static/js/runtime-main.0a08d37c.js",
-    "runtime-main.js.map": "/me/static/js/runtime-main.0a08d37c.js.map",
-    "static/js/2.f8d502e0.chunk.js": "/me/static/js/2.f8d502e0.chunk.js",
-    "static/js/2.f8d502e0.chunk.js.map": "/me/static/js/2.f8d502e0.chunk.js.map",
-    "static/js/3.141bdce5.chunk.js": "/me/static/js/3.141bdce5.chunk.js",
-    "static/js/3.141bdce5.chunk.js.map": "/me/static/js/3.141bdce5.chunk.js.map",
+    "main.css": "/me/static/css/main.f487fff7.chunk.css",
+    "main.js": "/me/static/js/main.e17f4498.chunk.js",
+    "main.js.map": "/me/static/js/main.e17f4498.chunk.js.map",
+    "runtime-main.js": "/me/static/js/runtime-main.eefa6e49.js",
+    "runtime-main.js.map": "/me/static/js/runtime-main.eefa6e49.js.map",
+    "static/js/2.31951df7.chunk.js": "/me/static/js/2.31951df7.chunk.js",
+    "static/js/2.31951df7.chunk.js.map": "/me/static/js/2.31951df7.chunk.js.map",
+    "static/js/3.bce3066d.chunk.js": "/me/static/js/3.bce3066d.chunk.js",
+    "static/js/3.bce3066d.chunk.js.map": "/me/static/js/3.bce3066d.chunk.js.map",
     "index.html": "/me/index.html",
-    "static/css/main.b89b6a9d.chunk.css.map": "/me/static/css/main.b89b6a9d.chunk.css.map",
-    "static/js/2.f8d502e0.chunk.js.LICENSE.txt": "/me/static/js/2.f8d502e0.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/me/static/media/wmbike_blur.25e634c8.png",
-    "static/media/kjch_headshot.9569f049.jpeg": "/me/static/media/kjch_headshot.9569f049.jpeg"
+    "static/css/main.f487fff7.chunk.css.map": "/me/static/css/main.f487fff7.chunk.css.map",
+    "static/js/2.31951df7.chunk.js.LICENSE.txt": "/me/static/js/2.31951df7.chunk.js.LICENSE.txt",
+    "static/media/bg.css": "/me/static/media/background.c5315cef.jpeg",
+    "static/media/kjch_headshot.9569f049.jpeg": "/me/static/media/kjch_headshot.9569f049.jpeg",
+    "static/media/menu.css": "/me/static/media/wmbike_blur.25e634c8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a08d37c.js",
-    "static/js/2.f8d502e0.chunk.js",
-    "static/css/main.b89b6a9d.chunk.css",
-    "static/js/main.c9dfa1eb.chunk.js"
+    "static/js/runtime-main.eefa6e49.js",
+    "static/js/2.31951df7.chunk.js",
+    "static/css/main.f487fff7.chunk.css",
+    "static/js/main.e17f4498.chunk.js"
   ]
 }
