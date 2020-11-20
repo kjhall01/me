@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/me/static/css/main.9eeedf17.chunk.css",
-    "main.js": "/me/static/js/main.86714542.chunk.js",
-    "main.js.map": "/me/static/js/main.86714542.chunk.js.map",
+    "main.css": "/me/static/css/main.33a9aca7.chunk.css",
+    "main.js": "/me/static/js/main.858c1294.chunk.js",
+    "main.js.map": "/me/static/js/main.858c1294.chunk.js.map",
     "runtime-main.js": "/me/static/js/runtime-main.dbdabd70.js",
     "runtime-main.js.map": "/me/static/js/runtime-main.dbdabd70.js.map",
     "static/js/2.f4ba3cc2.chunk.js": "/me/static/js/2.f4ba3cc2.chunk.js",
     "static/js/2.f4ba3cc2.chunk.js.map": "/me/static/js/2.f4ba3cc2.chunk.js.map",
     "index.html": "/me/index.html",
-    "static/css/main.9eeedf17.chunk.css.map": "/me/static/css/main.9eeedf17.chunk.css.map",
+    "static/css/main.33a9aca7.chunk.css.map": "/me/static/css/main.33a9aca7.chunk.css.map",
     "static/js/2.f4ba3cc2.chunk.js.LICENSE.txt": "/me/static/js/2.f4ba3cc2.chunk.js.LICENSE.txt",
     "static/media/bg.css": "/me/static/media/background.c5315cef.jpeg",
     "static/media/boren-removebg-preview.1eeaafd9.png": "/me/static/media/boren-removebg-preview.1eeaafd9.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.dbdabd70.js",
     "static/js/2.f4ba3cc2.chunk.js",
-    "static/css/main.9eeedf17.chunk.css",
-    "static/js/main.86714542.chunk.js"
+    "static/css/main.33a9aca7.chunk.css",
+    "static/js/main.858c1294.chunk.js"
   ]
 }
